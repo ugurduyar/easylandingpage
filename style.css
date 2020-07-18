@@ -23,7 +23,7 @@ body.show-nav {
 
 nav {
   background-color: var(--primary-color);
-  border-right: 2px solid rgba(200, 200, 200, 0.1);
+  border-right: 2px solid rgba(200, 200, 200, 0.2);
   color: white;
   position: fixed;
   top: 0;
