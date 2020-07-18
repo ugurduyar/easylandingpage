@@ -21,6 +21,7 @@ body.show-nav {
   transform: translateX(200px);
 }
 
+
 nav {
   background-color: var(--primary-color);
   border-right: 2px solid rgba(200, 200, 200, 0.2);
